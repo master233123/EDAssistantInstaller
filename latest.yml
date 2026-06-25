@@ -1,8 +1,8 @@
-version: 1.2.4
+version: 1.2.5
 files:
-  - url: EDAssistant-Setup-1.2.4.exe
-    sha512: 6OHGQO3qxR4OlK0Is5oBqbwnKOzi29q/GitkGbAIstcBBg0+Zhe2DgGM8qE7iPbDISE+rPIAqyDONJLbkjAySQ==
-    size: 134649945
-path: EDAssistant-Setup-1.2.4.exe
-sha512: 6OHGQO3qxR4OlK0Is5oBqbwnKOzi29q/GitkGbAIstcBBg0+Zhe2DgGM8qE7iPbDISE+rPIAqyDONJLbkjAySQ==
-releaseDate: '2026-06-25T15:09:42.151Z'
+  - url: EDAssistant-Setup-1.2.5.exe
+    sha512: FCDCZhFVxAHkqIPu8Bi8U+LKexZexrN96v1y/jjzbOYzo5ITjowo2SPu1yDxc+CwyEiZyzVcqwff6x8CT2WTig==
+    size: 134660087
+path: EDAssistant-Setup-1.2.5.exe
+sha512: FCDCZhFVxAHkqIPu8Bi8U+LKexZexrN96v1y/jjzbOYzo5ITjowo2SPu1yDxc+CwyEiZyzVcqwff6x8CT2WTig==
+releaseDate: '2026-06-25T20:00:06.685Z'
